@@ -21,6 +21,19 @@
         android:textColorHint="@color/material_dynamic_neutral60"
         android:textSize="24sp"
         android:textStyle="bold" />
+    <EditText
+        android:id="@+id/toDoTaskEdityyyText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Your Task"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textColorHint="@color/material_dynamic_neutral60"
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
     <LinearLayout
         android:layout_width="match_parent"
